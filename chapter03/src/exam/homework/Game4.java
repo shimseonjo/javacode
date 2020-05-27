@@ -1,8 +1,8 @@
-package exam.ifTest;
+package exam.homework;
 
 import java.util.Scanner;
 
-public class Game3 {
+public class Game4 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int count=0;
